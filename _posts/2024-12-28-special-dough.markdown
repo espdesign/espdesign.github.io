@@ -3,12 +3,13 @@ layout: post
 title:  "Sourdough-boy"
 date:   2024-12-28 17:14:52 +0000
 categories: SOCI308
-image: https://ultimatefoodgeek.com/wp-content/uploads/2024/03/ben-bread-1024x811.png
+image: /assets/images/bread.jpg
 ---
 
 
 
 ![]({{page.image | relative_url}})
+_A sourdough boule left, and sourdough focaccia right, made by me._
 ### Sourdough-boy
 Sourdough focaccia: have you ever had the delicious, spongey, soft, salty bread that is sourdough focaccia? Fresh out of the oven is a spiritual experience for me. A Joke... or is it? In any case, I am a certified carb-o-holic.
 
