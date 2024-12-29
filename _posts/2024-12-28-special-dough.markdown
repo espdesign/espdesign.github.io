@@ -6,10 +6,10 @@ categories: SOCI308
 image: https://ultimatefoodgeek.com/wp-content/uploads/2024/03/ben-bread-1024x811.png
 ---
 
-### Sourdough-boy
+
 
 ![]({{page.image | relative_url}})
-
+### Sourdough-boy
 Sourdough focaccia: have you ever had the delicious, spongey, soft, salty bread that is sourdough focaccia? Fresh out of the oven is a spiritual experience for me. A Joke... or is it? In any case, I am a certified carb-o-holic.
 
 I started making sourdough bread during the COVID-19 pandemic, as did most people my age, and I fell in love with making sourdough focaccia. It was an interesting time when I and many other people were thinking about self-sustainable food options when the grocery store panic buying happened. 
