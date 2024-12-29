@@ -17,5 +17,5 @@ I started making sourdough bread during the COVID-19 pandemic, as did most peopl
 
 It's not difficult to make, and it's an excellent appetizer for parties. Just this last Christmas, I made two bouls of sourdough bread and a focaccia loaf. Making sourdough bread for the family is a tradition for me now. My two brothers would be disappointed if I failed to produce adequate gluten for our family events. Although it's my sole task, my mother has started to make sourdough bread, and I enjoy sharing my knowledge with her. 
 
-Sourdough bread has been around for a long time in human history, and it's more straightforward to make than many of these modern Instagram bakers would lead you to believe.
+Sourdough bread has been around for a long time in human history, and it's more straightforward to make than many of these modern Instagram bakers would lead you to believe. I used to feed my starter every day, hoping it would stay alive; now, I often refrigerate the starter for a month without feeding it.
 Ben Star has a recipe ['Simple sourdough for lazy people'](https://ultimatefoodgeek.com/2024/03/28/simple-sourdough-for-lazy-people/), and in his videos, he talks a lot about the misconceptions and over-complications of sourdough breadmaking.
